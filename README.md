@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there 👋 I am Ahmet BUYUKBERBER.
+I am freshmen at Bilkent university.
+My major is computer science.
+
+
+
 
 <!--
 **AhmetBUYUKBERBER/AhmetBUYUKBERBER** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
